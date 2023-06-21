@@ -1,4 +1,4 @@
-# Hilbert Turtle
+# Hilbert Curve with Turtle
 
 This program generates a Hilbert Curve using the Turtle module in Python. The Hilbert Curve is a space-filling fractal curve that visits every point in a square grid in a specific order. The program provides both sequential and parallel implementations of the curve generation algorithm.
 
